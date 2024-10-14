@@ -1,2 +1,4 @@
-# Trabalho1-DevSoft
-Repositório para o primeiro trabalho
+# Alunos
+Kauan Martins Pereira 
+
+Luiz Antônio Frey Cristiano
